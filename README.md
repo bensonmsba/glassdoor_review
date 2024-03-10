@@ -1,0 +1,1 @@
+Utilized Python to analyze a large-scale Glassdoor dataset of 838k employee reviews. Applied data cleaning, machine learning algorithms, and text analytics to identify companies with top ratings and the most common sentiments in reviews. Delivered actionable insights on optimal employers and work locations.
